@@ -5,4 +5,4 @@
 </a>
 
 ## 公開用URL（HTML）
-https://bee-ms-documents.readthedocs.io/en/latest/
+https://bee-ms-documents.readthedocs.io/ja/latest/

@@ -43,6 +43,9 @@ templates_path = ['_templates']
 # Usually you set "language" from the command line for these cases.
 language = 'ja'
 
+latex_engine = 'platex'
+latex_use_xindy = False
+
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
